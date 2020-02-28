@@ -41,4 +41,4 @@ print (f"runtime: {end_time - start_time} seconds")
 # structures?
 
 # using this duplicates = deque() , we have #runtime: 0.012484073638916016 seconds using this above we have this,
-# lists in python built in, # duplicates = [] # this will runtime: 0.02987384796142578 seconds
+# This is the best time, ===> lists in python built in, # duplicates = [] # this will runtime: 0.02987384796142578 seconds
