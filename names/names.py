@@ -39,3 +39,6 @@ print (f"runtime: {end_time - start_time} seconds")
 # Python has built-in tools that allow for a very efficient approach to this problem
 # What's the best time you can accomplish with no restrictions on techniques or data
 # structures?
+
+# using this duplicates = deque() , we have #runtime: 0.012484073638916016 seconds using this above we have this,
+# lists in python built in, # duplicates = [] # this will runtime: 0.02987384796142578 seconds
